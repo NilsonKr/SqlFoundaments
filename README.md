@@ -7,3 +7,5 @@ Repository For excersice and basic querys with SQL
 _This Data Base was built at 'DB Foundaments' Course At Platzi_ 📗 [Course](https://platzi.com/clases/bd/)
 
 > You can Get the data used [Here](https://platzi.com/comentario/715894/)
+
+`Note the queries are builded implicitly using the db default`
